@@ -1,5 +1,5 @@
 # Olá, sou Israel. Bem vindo ao meu perfil!
-Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de Jogos. Tenho uma grande paixão por programação, principalmente na área de Desenvolvimento de Jogos e Desenvolvimento Web.
+Sou um desenvolvedor de jogos e de sites amador e estou cursando Ciência da Computação, tenho o objetivo de me tornar um bom programador a fim de trabalhar com jogos digitais. Tenho grande interesse na área de Desenvolvimento Web Front-End e estou aprendendo alguns frameworks.
 
 ### Entre em contato comigo!
 
