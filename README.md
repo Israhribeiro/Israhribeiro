@@ -3,7 +3,7 @@ Sou um desenvolvedor de jogos e de sites amador e estou cursando Ciência da Com
 
 ### Entre em contato comigo!
 
-<img align="left" alt="rebiboboratavribeiro@gmail.com" width="30px" src="https://img.icons8.com/fluent/2x/gmail.png"/>
+<img align="left" href="mailto:rebiboboratavribeiro@gmail.com" width="30px" src="https://img.icons8.com/fluent/2x/gmail.png"/>
 <a href="https://www.linkedin.com/in/israel-tavares-ribeiro-a30aa91ba/"><img align="left" alt="Israel Ribeiro | Linkedin" width="30px" src="https://img.icons8.com/color/72/linkedin.png"/></a>
 
 <br />
