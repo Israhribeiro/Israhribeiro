@@ -1,9 +1,9 @@
 # Olá, sou Israel. Bem vindo ao meu perfil!
-Sou um desenvolvedor de jogos e de sites amador e estou cursando Ciência da Computação, tenho o objetivo de me tornar um bom programador a fim de trabalhar com jogos digitais. Tenho grande interesse na área de Desenvolvimento Web Front-End e estou aprendendo alguns frameworks.
+Sou um desenvolvedor de jogos e de sites amador e estou cursando Ciência da Computação, tenho o objetivo de me tornar um bom programador a fim de trabalhar com jogos digitais. Tenho interesse na área de Desenvolvimento Web Front-End e estou aprendendo alguns frameworks.
 
 ### Entre em contato comigo!
 
-<a href="rebiboboratavribeiro@gmail.com"><img align="left" alt="Israel Ribeiro | Gmail" width="30px" src="https://img.icons8.com/fluent/2x/gmail.png"/></a>
+<img align="left" alt="rebiboboratavribeiro@gmail.com" width="30px" src="https://img.icons8.com/fluent/2x/gmail.png"/>
 <a href="https://www.linkedin.com/in/israel-tavares-ribeiro-a30aa91ba/"><img align="left" alt="Israel Ribeiro | Linkedin" width="30px" src="https://img.icons8.com/color/72/linkedin.png"/></a>
 
 <br />
