@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Web Developer, working in RPA Projects in Python and Selenium. I'm a little bit interested in Cybersecurity and it's mysteries. Can we work together ?!
+I'm a Web Developer, working in RPA Projects in Python and Selenium. I'm a little bit interested in Cybersecurity and it's mysteries. Can we work together ?
 
 
 ## 🌐 Socials:
